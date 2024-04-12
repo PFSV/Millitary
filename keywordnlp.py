@@ -30,7 +30,7 @@ def gptStream(question):
     }
 
     reqData = {
-        'app_id': '5bf037e0-9551-5cd2-810c-ac97fa8bdfdd',
+        'app_id': '#####################################',
         'name': 'gpt4_stream',
         'item': [
             'gpt4-stream'
